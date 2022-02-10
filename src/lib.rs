@@ -1,3 +1,4 @@
+mod camera;
 mod hidden;
 mod triangle;
 
